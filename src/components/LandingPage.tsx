@@ -208,9 +208,9 @@ export const LandingPage: React.FC<LandingPageProps> = ({ onSelectMode, onRestar
       isLight ? 'bg-slate-50 text-slate-900' : 'bg-slate-950 text-slate-100'
     }`}>
       {/* HERO SECTION */}
-      <section className="relative min-h-[90vh] flex flex-col justify-between items-center px-4 sm:px-6 pt-12 pb-16 overflow-hidden">
+      <section className="relative min-h-[90vh] flex flex-col justify-between items-center px-4 sm:px-6 pt-12 pb-16">
         {/* 3D WebGL Canvas Backdrop */}
-        <div ref={heroCanvasRef} className="absolute inset-0 z-0 pointer-events-auto opacity-70" />
+        <div ref={heroCanvasRef} className="absolute inset-0 z-0 pointer-events-none opacity-70" />
 
         {/* Ambient Top Glow Orbs */}
         <div className="absolute top-0 left-1/4 w-96 h-96 bg-emerald-500/10 rounded-full blur-3xl pointer-events-none" />
