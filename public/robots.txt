@@ -1,0 +1,24 @@
+# NetSimplex.3D - SEO Configuration
+# Allow all search engines to crawl and index
+
+User-agent: *
+Allow: /
+Disallow: /node_modules/
+Disallow: /dist/
+Disallow: /.git/
+
+# Sitemap location
+Sitemap: https://github.com/Naren1520/NetSimplex.3D/sitemap.xml
+
+# Crawl delay to prevent server overload (in seconds)
+Crawl-delay: 1
+
+# Specific rules for Google
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0.5
+
+# Specific rules for Bing
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
