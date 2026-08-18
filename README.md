@@ -11,7 +11,7 @@
 
 The application enables users to visualize network topologies in real-time, simulate data packet transmission, analyze network behavior, and debug network operations through an intuitive 3D interface. It combines cutting-edge web technologies with AI-powered insights to create a comprehensive learning environment.
 
-## 🎓 Educational Purpose
+## Educational Purpose
 
 This project is **explicitly designed for educational use**. It is intended to help students, researchers, and professionals understand:
 
@@ -23,7 +23,7 @@ This project is **explicitly designed for educational use**. It is intended to h
 
 Whether you're a computer science student, network engineer, or technology educator, NetSimplex.3D provides an engaging platform to learn and experiment with networking concepts.
 
-## ✨ Features
+## Features
 
 - **3D Network Topology Visualization**: Interactive real-time rendering of network nodes and connections
 - **Multiple Architecture Modes**:
@@ -37,7 +37,7 @@ Whether you're a computer science student, network engineer, or technology educa
 - **Responsive Design**: Optimized for desktop environments with Tailwind CSS
 - **Dark/Light Theme Support**: Comfortable viewing in any environment
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 - **Frontend Framework**: React 19.0.1
 - **3D Graphics**: Three.js (v0.185.1)
@@ -50,7 +50,7 @@ Whether you're a computer science student, network engineer, or technology educa
 - **Backend**: Express.js 4.21.2 (for server operations)
 - **Node Runtime**: ES Module support
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -101,7 +101,7 @@ The optimized build will be created in the `dist/` directory.
 npm run preview
 ```
 
-## 📖 Usage
+## Usage
 
 ### Starting the Application
 
@@ -125,7 +125,7 @@ npm run preview
 - **Click**: Select nodes for detailed inspection
 - **Controls Panel**: Use GUI buttons for simulation control
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 NetSimplex.3D/
@@ -158,7 +158,7 @@ NetSimplex.3D/
 └── index.html               # HTML template
 ```
 
-## 🔧 Available Scripts
+##  Available Scripts
 
 - `npm run dev` - Start development server (port 3000)
 - `npm run build` - Build for production
@@ -166,7 +166,7 @@ NetSimplex.3D/
 - `npm run lint` - Run TypeScript type checking
 - `npm run clean` - Remove build artifacts
 
-## 🙏 Credits & Acknowledgments
+##  Credits & Acknowledgments
 
 ### Powered by Google Gemini
 
@@ -184,7 +184,7 @@ This project leverages **Google's Gemini 3.7 Flash** model for AI-powered featur
 - [TypeScript](https://www.typescriptlang.org)
 - [Express.js](https://expressjs.com)
 
-## 📝 License
+##  License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
@@ -198,7 +198,7 @@ The MIT License allows for free use, modification, and distribution of this soft
 - **GitHub**: [@Naren1520](https://github.com/Naren1520)
 - **LinkedIn**: [Naren SJ](https://www.linkedin.com/in/narensj20)
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! This is an educational project, and we encourage the community to contribute improvements, bug fixes, and educational enhancements.
 
@@ -218,12 +218,12 @@ Contributions are welcome! This is an educational project, and we encourage the 
 - Ensure type safety throughout
 - Test your changes before submitting
 
-## 🐛 Bug Reports & Feature Requests
+##  Bug Reports & Feature Requests
 
 Found a bug or have an idea for improvement? Please open an issue on GitHub:
 - [GitHub Issues](https://github.com/Naren1520/NetSimplex.3D/issues)
 
-## 📚 Additional Resources
+##  Additional Resources
 
 - [Network Architecture Fundamentals](https://en.wikipedia.org/wiki/Network_architecture)
 - [Three.js Documentation](https://threejs.org/docs/)
@@ -234,18 +234,7 @@ Found a bug or have an idea for improvement? Please open an issue on GitHub:
 
 This project is provided "as-is" for educational purposes. While effort has been made to ensure accuracy in network simulations, real-world network behavior may differ. This tool is intended for learning and research and should not be used for production network analysis without proper validation.
 
-## 🎯 Future Roadmap
-
-- [ ] Mobile-responsive interface
-- [ ] Advanced network metrics dashboard
-- [ ] Custom scenario builder
-- [ ] Network topology import/export
-- [ ] Collaborative learning features
-- [ ] Extended AI-powered analysis
-
 ---
 
 **Last Updated**: August 2026  
-**Version**: 0.0.0 (Educational Preview)
 
-Made with ❤️ for the networking community
