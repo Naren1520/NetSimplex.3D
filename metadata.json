@@ -1,0 +1,6 @@
+{
+  "name": "NetSimplex.3D",
+  "description": "Interactive 3D simulation and visual learning platform demonstrating Server-Centric and Information-Centric (NDN/ICN) architectures, with step-by-step lifecycles, live telemetry, and comparison matrix.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
